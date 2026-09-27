@@ -1,0 +1,10 @@
+.env
+.venv/
+.firecrawl/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+gepa_jev_run/
+optimized_jev_candidate.json
+gepa_jev_result.json
+json_cache.json
