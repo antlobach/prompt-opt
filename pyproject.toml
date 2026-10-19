@@ -2,6 +2,7 @@
 name = "gepa-jev-prompt-tuning"
 version = "0.1.0"
 description = "GEPA generalization-mode prompt tuning for TypeSafe Jev"
+license = "MIT"
 requires-python = ">=3.11"
 dependencies = [
   "gepa==0.1.4",
